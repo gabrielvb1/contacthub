@@ -1,0 +1,16 @@
+{
+    "name": "my-project",
+    "private": true,
+    "workspaces": [
+        "frontend",
+        "backend"
+    ],
+    "scripts": {
+        "install": "npm install --workspaces",
+        "start": "concurrently \"npm start --prefix back-end\" \"npm run dev --prefix front-end\"",
+        "build": "npm run build --prefix frontend && npm run build --prefix backend"
+    },
+    "devDependencies": {
+        "concurrently": "^7.6.0"
+    }
+}
