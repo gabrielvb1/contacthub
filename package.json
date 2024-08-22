@@ -2,8 +2,8 @@
     "name": "my-project",
     "private": true,
     "workspaces": [
-        "frontend",
-        "backend"
+        "front-end",
+        "back-end"
     ],
     "scripts": {
         "install": "npm install --workspaces",
