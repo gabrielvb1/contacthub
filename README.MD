@@ -2,9 +2,9 @@
 
 COMO CONFIGURAR O AMBIENTE E RODAR A APLICAÇÃO:
 
-1 - NO DIRETÓRIO RAÍZ DIGITE NO TERMINAL O COMANDO npm install
-2 - DEPOIS DIGITE O COMANDO npm start. ISSO SERÁ O SUFICIENTE PARA RODAR A APLICAÇÃO FULLSTACK NO MESMO REPOSITÓRIO
-3 - A APLICAÇÃO RODARÁ EM http://localhost:3000/
+- NO DIRETÓRIO RAÍZ DIGITE NO TERMINAL O COMANDO npm install
+- DEPOIS DIGITE O COMANDO npm start. ISSO SERÁ O SUFICIENTE PARA RODAR A APLICAÇÃO FULLSTACK NO MESMO REPOSITÓRIO
+- A APLICAÇÃO RODARÁ EM http://localhost:3000/
 
 
 - O sistema trata-se de uma aplicação para cadastro de clientes e seus respectivos contatos. 
@@ -31,8 +31,6 @@ As funcionalidades da aplicação são:
 
 Para cadastrar um novo usuário você terá que preencher o formulário na página de **cadastro**.
 
-
-<img width="504" alt="image" src="https://user-images.githubusercontent.com/104026230/194585435-c156165e-c88a-4926-9120-699e41b57511.png">
 
 *Caso todos os campos não estiverem preenchidos ou os valores dos formulários de senha não sejam os mesmos, mensagens de erros correspondentes aparecerão no formulário
 
